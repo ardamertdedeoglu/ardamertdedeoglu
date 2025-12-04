@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arda Mert Dedeoğlu</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
 
-- 🔭 I’m currently working on [NEX-DATABASE](https://github.com/Ll0ris/NEX-DATABASE) and [Başakşehir Evlere Sağlık](https://github.com/ardamertdedeoglu/efekan-site)
+- 🔭 I’m currently working on [Video-Downloader](https://github.com/ardamertdedeoglu/video-downloader) and [Başakşehir Evlere Sağlık](https://github.com/ardamertdedeoglu/efekan-site)
 
 - 🌱 I’m currently learning **PHP, MySQL, NodeJS, NextJS**
 
