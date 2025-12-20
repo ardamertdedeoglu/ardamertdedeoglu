@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Video-Downloader](https://github.com/ardamertdedeoglu/video-downloader) and [Başakşehir Evlere Sağlık](https://github.com/ardamertdedeoglu/efekan-site)
 
-- 🌱 I’m currently learning **PHP, MySQL, NodeJS, NextJS**
+- 🌱 I’m currently learning **SQL, NodeJS, NextJS, Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ardamertdedeoglu](https://github.com/ardamertdedeoglu)
 
