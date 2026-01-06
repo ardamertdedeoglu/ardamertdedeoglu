@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Video-Downloader](https://github.com/ardamertdedeoglu/video-downloader) and [Lumi App](https://github.com/ardamertdedeoglu/lumi_app)
 
-- 🌱 I’m currently learning **SQL, NodeJS, NextJS, Django**
+- 🌱 I’m currently learning **SQL, NextJS, Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ardamertdedeoglu](https://github.com/ardamertdedeoglu)
 
